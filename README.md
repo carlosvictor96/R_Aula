@@ -1,7 +1,17 @@
 # R_Aula
 
-Estou no _Rio de Janeiro_
+In _Rio de Janeiro_,
 In **Brasil**
 
 
-*Comidas Tipicas
+#Comidas Tipicas
+
+##Manual Line Breaks
+Roses are red,   
+Violets are blue.
+
+##Table
+First Header  | Second Header
+------------- | -------------
+one  | three
+two  | four

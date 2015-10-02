@@ -247,6 +247,10 @@ for (i in 1:length(pois_resp$xs)){
 pois_resp$ys
 
 
+
+
+
+
 # multilevel --------------------------------------------------------------
 
 library(broom)

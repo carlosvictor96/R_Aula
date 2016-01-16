@@ -248,8 +248,10 @@ pois_resp$ys
 
 
 
-
-
+library (maptools)
+library(ggmap)
+library(maps)
+library(raster)
 
 # multilevel --------------------------------------------------------------
 

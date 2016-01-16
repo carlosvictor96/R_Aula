@@ -111,7 +111,7 @@ summary (model7)
 # multivariate analyses ---------------------------------------------------
 
 
-
+install.packages("vegan")
 library(vegan)
 data("varechem")
 View(varechem)
